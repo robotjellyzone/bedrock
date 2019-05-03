@@ -122,4 +122,19 @@ $image-path: '/media/protocol/img';
     }
 }
 
+.fonts-delayed {
+    .mzp-c-hero-title,
+    .mzp-c-hero-desc,
+    .c-page-title,
+    .mzp-c-card-title,
+    .mzp-c-card-feature-title,
+    .mzp-c-billboard-title,
+    .c-city-desc strong,
+    .mzp-c-newsletter-title,
+    #read-mission-button,
+    .mzp-c-navigation-download {
+        font-family: X-LocaleSpecific, sans-serif !important;
+    }
+}
+
 /* stylelint-enable declaration-no-important */
